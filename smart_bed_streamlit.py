@@ -73,9 +73,8 @@ elif menu == "Contact / Credits":
     st.markdown("""
     - **Developer:** Aryan Sinhaa  
     - **GitHub:** [@aryansinha21](https://github.com/aryansinha21)  
-    - **Email:** *your-email@example.com*  
-    - **Technology Used:** Python, Streamlit  
-    - **License:** MIT License
+    - **Email:** *aryan2172007@gmail.com*  
+    - **Technology Used:** Python, Streamlit 
     """)
 
 # ------------------ Footer ------------------
